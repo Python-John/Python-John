@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Python-John
-- 👀 I’m interested in Pyhton, java, and others
+- 👀 I’m interested in Python, Java, and others
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me email at bblaze872@gmail.com
